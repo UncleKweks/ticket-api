@@ -1,0 +1,13 @@
+# Editor / tooling
+.claude/
+.vscode/
+.idea/
+
+# Build output
+/bin/
+*.exe
+*.test
+*.out
+
+# Env
+.env
